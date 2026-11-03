@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "Hogwarts: Beyond the Castle",
+  "short_name": "Hogwarts",
+  "description": "Explore four houses, learn spells and discover your own magical journey. 探索四大学院，开启你的魔法旅程。",
+  "start_url": "./#/",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101827",
+  "theme_color": "#101827",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
